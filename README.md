@@ -1,4 +1,4 @@
 # CarAdData
 
-This will hae all my findings and all my analysis 
+This will have all my findings and all my analysis 
 
